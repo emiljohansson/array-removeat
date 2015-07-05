@@ -1,0 +1,21 @@
+{
+  "name": "array-removeat",
+  "version": "0.0.0",
+  "description": "Inserts an item at a specific position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "array",
+    "splice",
+    "remove",
+    "at",
+    "position"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com> (emiljohansson.se)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
