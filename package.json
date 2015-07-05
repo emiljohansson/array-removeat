@@ -1,7 +1,7 @@
 {
   "name": "array-removeat",
   "version": "1.0.0",
-  "description": "Inserts an item at a specific position.",
+  "description": "Removes an item from a specific position.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
