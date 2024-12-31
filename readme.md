@@ -36,4 +36,4 @@ Position where to modify the array.
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © Emil Johansson
